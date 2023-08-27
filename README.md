@@ -19,7 +19,7 @@ Remember:
 
 ---
 
-## Verify Installations / Update Default Python
+## Verify Installations / Update Default Python to Python3 for MacOS 
 
 In VS Code, open a terminal window (View / Terminal).
 If macOS/Linux, change `python` to `python3` in the commands below.
@@ -30,7 +30,7 @@ python3 --version
 python3 -m pip install --upgrade pip wheel
 ```
 
-## Execute Utility Script (Diagnostics)
+## Execute Utility Script (Diagnostics) Updated for Max OS
 
 With your repo folder open in VS Code:
 
@@ -109,20 +109,4 @@ git push origin main
 
 -----
 
-## General Recommendations and Troubleshooting
 
-The following are general recommendations and troubleshooting tips.
-
-### Issue: VS Code - No Source Control Icon
-
-Suggestion: If you're in VS Code, and you don't see the Source Control icon with a blue bubble, right-click on the sidebar icons, and make sure "Source Control" is checked.  
-
-### Issue: VS Code wants to install an extension
-
-If VS Code suggests an extension, it's often good to go ahead and try it. 
-Do a search on the extension to learn more. VS Code suggestions are usually helpful. 
-
-## Additional Resources
-
-1. For more information about Git in VS Code, see [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview).
-1. For more information about editing Markdown in VS Code, see [Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown).
