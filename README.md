@@ -30,7 +30,7 @@ python3 --version
 python3 -m pip install --upgrade pip wheel
 ```
 
-## Execute Utility Script (Diagnostics) Updated for Max OS
+## Execute Utility Script (Diagnostics) Updated for Mac OS
 
 With your repo folder open in VS Code:
 
